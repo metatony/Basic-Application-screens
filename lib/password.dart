@@ -52,7 +52,7 @@ class Password extends StatelessWidget {
                     child: const Text(
                       'Provide your email and we will send you a link to reset your password',
                       style: TextStyle(
-                          fontSize: 15, fontWeight: FontWeight.normal),
+                          fontSize: 15, fontWeight: FontWeight.bold),
                     ),
                   ),
                   const SizedBox(
